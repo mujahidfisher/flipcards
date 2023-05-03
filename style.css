@@ -232,10 +232,10 @@ p1 {
     transform: rotateY(180deg);
 }
 footer {
-    background-color: blueviolet;
+    background-color: pink;
     color: black;
     display: flex;
     height: 20px;
-    margin: 5px;
-
+    margin: 10px;
+    border: 5px solid blueviolet;
 }
